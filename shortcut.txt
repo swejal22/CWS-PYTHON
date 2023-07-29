@@ -1,0 +1,6 @@
+alt+shift+downarrow
+ctrl W (t0 close file and to switch)
+ctrl tab tab (to switch)
+a,b=b,a (for swapping value)
+end=" " (same line)
+select all and tab = proper allignment
