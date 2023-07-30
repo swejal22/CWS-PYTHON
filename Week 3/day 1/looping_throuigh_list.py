@@ -18,7 +18,7 @@ while i<=len(a)-1
 while i<len(a) 
 """
 
-a = [34, 12, 45, 67, 43, 5, 789]
+a = [34, 12, 45, 67, 43, 5, 789, 4, 68]
 for i in range(0, len(a)):
     print(a[i])
 print(len(a))

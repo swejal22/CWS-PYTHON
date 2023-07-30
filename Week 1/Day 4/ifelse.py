@@ -6,6 +6,6 @@ used to take decisions in python
 age = int(input("enter your age"))
 
 if age >= 18:
-    print("adult")
+    print("he/she is adult")
 else:
-    print("child")
+    print("he /she is child")
